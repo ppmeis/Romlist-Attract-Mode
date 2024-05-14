@@ -1,0 +1,20 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Athlete Kings (EU);Athlete Kings;Sega Saturn;;;;;;;;;0;;;;;
+Batman Forever - The Arcade Game;Batman Forever - The Arcade Game;Sega Saturn;;;;;;;;;0;;;;;
+Darius - Gaiden;Darius - Gaiden;Sega Saturn;;;;;;;;;0;;;;;
+Dark Legend;Dark Legend;Sega Saturn;;;;;;;;;0;;;;;
+Die Hard Arcade;Die Hard Arcade;Sega Saturn;;;;;;;;;0;;;;;
+Fighters Megamix;Fighters Megamix;Sega Saturn;;;;;;;;;0;;;;;
+Final Fight Revenge;Final Fight Revenge;Sega Saturn;;;;;;;;;0;;;;;
+Galactic Attack;Galactic Attack;Sega Saturn;;;;;;;;;0;;;;;
+Golden Axe - The Duel;Golden Axe - The Duel;Sega Saturn;;;;;;;;;0;;;;;
+Guardian Heroes;Guardian Heroes;Sega Saturn;;;;;;;;;0;;;;;
+Kisuishou Densetsu Astal (1995)(Sega)(JP);Kisuishou Densetsu Astal (1995)(Sega)(JP);Sega Saturn;;;;;;;;;0;;;;;
+Panzer Dragoon (EU);Panzer Dragoon;Sega Saturn;;;;;;;;;0;;;;;
+Panzer Dragoon 2;Panzer Dragoon 2;Sega Saturn;;;;;;;;;0;;;;;
+Radiant Silvergun;Radiant Silvergun;Sega Saturn;;;;;;;;;0;;;;;
+Shinobi Legions;Shinobi Legions;Sega Saturn;;;;;;;;;0;;;;;
+Sonic 3D Blast;Sonic 3D Blast;Sega Saturn;;;;;;;;;0;;;;;
+Sonic Jam;Sonic Jam;Sega Saturn;;;;;;;;;0;;;;;
+Thunder Force V;Thunder Force V;Sega Saturn;;;;;;;;;0;;;;;
+Winter Heat (EU);Winter Heat;Sega Saturn;;;;;;;;;0;;;;;

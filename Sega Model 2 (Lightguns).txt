@@ -1,0 +1,7 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+bel;Behind Enemy Lines;Sega Model 2 (Lightguns);;;;;1997;Sega;Shooter;;;;;;;;;;0;;;;;
+gunblade;Gun Blade Arcade Version;Sega Model 2 (Lightguns);;;;2009;Hitmaker, Amusement Vision;Shooter;;;;;;;;;;0;;;;;
+rchase2;Rail Chase 2;Sega Model 2 (Lightguns);;;;;1995;Sega;;;;;;;;;;;;0;;;;;
+hotd;The House of the Dead;Sega Model 2 (Lightguns);;;;1997;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+vcop;Virtua Cop;Sega Model 2 (Lightguns);;;;1994;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+vcop2;Virtua Cop 2 - Arcade Version;Sega Model 2 (Lightguns);;;;1995;Sega;Shooter/Gun;;;;;;;;;;0;;;;;

@@ -1,0 +1,3 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+braveff;Brave Fire Fighters;Sega Naomi 2 (Lightguns);;;;;;Sega;;;;;;;;;;;;0;;;;;
+manicpnc;Manic Panic Ghosts;Sega Naomi 2 (Lightguns);;;;;2007;Sega;;;;;;;;;;;;0;;;;;

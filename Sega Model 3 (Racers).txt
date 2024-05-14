@@ -1,0 +1,10 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+daytona2;daytona2;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+dayto2pe;dayto2pe;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+dirtdvls;dirtdvls;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+eca;eca;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+harley;harley;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+lemans24;lemans24;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+scud;scud;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+skichamp;skichamp;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;
+srally2;srally2;Sega Model 3 (Racers); ; ; ; ;;;;;0;;;;;

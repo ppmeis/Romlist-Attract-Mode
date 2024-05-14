@@ -1,0 +1,13 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+daytona;Daytona USA;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+daytonagtx;Daytona USA Grand Prix;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+desert;Desert;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+indy500to;Indianapolis 500;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+motoraid;Motor Raid;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+overrev;Over Rev;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+sgt24h;Super GT 24;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+skisuprg;Sega Ski Super G;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+srallyc;Sega Rally;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+stcca;Sega Touring Car Championeship;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+topskatr;Top Skater;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;
+waverunr;Wave Runner;Sega Model 2 (Racers); ; ; ; ;;;;;0;;;;;

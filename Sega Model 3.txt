@@ -1,0 +1,19 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+daytona2;daytona2;Sega Model 3; ; ; ; ;;;;;0;;;;;
+dayto2pe;dayto2pe;Sega Model 3; ; ; ; ;;;;;0;;;;;
+dirtdvls;dirtdvls;Sega Model 3; ; ; ; ;;;;;0;;;;;
+eca;eca;Sega Model 3; ; ; ; ;;;;;0;;;;;
+harley;harley;Sega Model 3; ; ; ; ;;;;;0;;;;;
+lemans24;lemans24;Sega Model 3; ; ; ; ;;;;;0;;;;;
+magtruck;magtruck;Sega Model 3; ; ; ; ;;;;;0;;;;;
+scud;scud;Sega Model 3; ; ; ; ;;;;;0;;;;;
+skichamp;skichamp;Sega Model 3; ; ; ; ;;;;;0;;;;;
+spikeout;spikeout;Sega Model 3; ; ; ; ;;;;;0;;;;;
+spikeofe;spikeofe;Sega Model 3; ; ; ; ;;;;;0;;;;;
+srally2;srally2;Sega Model 3; ; ; ; ;;;;;0;;;;;
+vf3;vf3;Sega Model 3; ; ; ; ;;;;;0;;;;;
+vf3tb;vf3tb;Sega Model 3; ; ; ; ;;;;;0;;;;;
+von2;von2;Sega Model 3; ; ; ; ;;;;;0;;;;;
+vs2;vs2;Sega Model 3; ; ; ; ;;;;;0;;;;;
+vs298;vs298;Sega Model 3; ; ; ; ;;;;;0;;;;;
+vs299;vs299;Sega Model 3; ; ; ; ;;;;;0;;;;;

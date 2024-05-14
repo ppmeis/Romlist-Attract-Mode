@@ -1,0 +1,7 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+confmiss;Confidential Mission - Arcade Version;Sega Naomi (Lightguns);;;;2000;Sega;Gun;;;;;;;;;;0;;;;;
+deathcox;Death Crimson Arcade Version;Sega Naomi (Lightguns);;;;;2001;Ecole;;;;;;;;;;;;0;;;;;
+lupinsho;Lupin the Third;Sega Naomi (Lightguns);;;;;2001;Sega;;;;;;;;;;;;0;;;;;
+ninjaslt;Ninja Assault - Arcade Version;Sega Naomi (Lightguns);;;;;2000;Namco;;;;;;;;;;;;0;;;;;
+hotd2;The House of the Dead II - Arcade Version;Sega Naomi (Lightguns);;;;1996;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+mok;The Maze of the kings;Sega Naomi (Lightguns);;;;;2002;Sega;;;;;;;;;;;;0;;;;;

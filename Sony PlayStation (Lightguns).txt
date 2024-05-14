@@ -1,0 +1,19 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Area 51;Area 51 - Version Playstation;Sony PlayStation (Lightguns);;;;1996;Atari Games;Shooter/Gun;;;;;;;;;;0;;;;;
+Crypt Killer;Crypt Killer - Version PlayStation;Sony PlayStation (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Elemental Gearbolt;Elemental Gearbolt;Sony PlayStation (Lightguns);;;;1997;Alfa System;Shooter/Gun;;;;;;;;;;0;;;;;
+Extreme Ghostbusters - The Ultimate Invasion;Extreme Ghostbusters - The Ultimate Invasion;Sony PlayStation (Lightguns);;;;;;;;;;0;;;;;
+Ghoul Panic;Ghoul Panic - Version Playstation;Sony PlayStation (Lightguns);;;;;1999;Eighting/Raizing/Namco;;;;;;;;;;;;0;;;;;
+Gunfighter - The Legend of Jesse James;Sony PlayStation (Lightguns);;;;2001;Ubisoft;Shooter/Gun;;;;;;;;;;0;;;;;
+Judge Dredd;Judge Dredd;Sony PlayStation (Lightguns);;;;1997;Gremlin Interactive;Shooter/Gun;;;;;;;;;;0;;;;;
+Lethal Enforcers;Lethal Enforcers I y II;Sony PlayStation (Lightguns);;;;1992;Konami;Shooter/Gun;;;;;;;;;;0;;;;;
+Maximum Force;Area 51 - Maximum Force - Version - Playstation;Sony PlayStation (Lightguns);;;;1997;Sega;Shooter;;;;;;;;;;0;;;;;
+Mighty Hits Special;Mighty Hits Special - Playstation Version;Sony PlayStation (Lightguns);;;;1999;Altron;Shooter/Gun;;;;;;;;;;0;;;;;
+Point Blank (USA);Point Blank - Playstation;Sony PlayStation (Lightguns);;;;1994;Namco;Shooter/Gun;;;;;;;;;;0;;;;;
+Point Blank 2 (USA);Point Blank 2 - Playstation;Sony PlayStation (Lightguns);;;;1999;Namco;Shooter/Gun;;;;;;;;;;0;;;;;
+Point Blank 3 (USA);Point Blank 3 - Playstation;Sony PlayStation (Lightguns);;;;1999;Namco;Shooter/Gun;;;;;;;;;;0;;;;;
+Project - Horned Owl;Project - Horned Owl;Sony PlayStation (Lightguns);;;;;1995;Alfa System;;;;;;;;;;;;0;;;;;
+Rescue Shot;Rescue Shot;Sony PlayStation (Lightguns);;;;;2000;Namco;;;;;;;;;;;;0;;;;;
+Resident Evil Survivor;Resident Evil Survivor;Sony PlayStation (Lightguns);;;;2000;Capcom;Shooter/Gun;;;;;;;;;;0;;;;;
+Time Crisis;Time Crisis - Version PlayStation;Sony PlayStation (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Time Crisis - Project Titan;Time Crisis - Project Titan Version PSX;Sony PlayStation (Lightguns);;;;;;;;;;;;;;;;;0;;;;;

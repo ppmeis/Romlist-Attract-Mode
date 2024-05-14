@@ -1,0 +1,6 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Chaos Control;Chaos Control;Sega Saturn (Lightguns);;;;;;;;;;;;;;;;;;0;;;;;
+Death Crimson (Japan);Death Crimson Sega Saturn Version;Sega Saturn (Lightguns);;;;;;;;;;;;;;;;;;0;;;;;
+Mechanical Violator Hakaider;Mechanical Violator Hakaider;Sega Saturn (Lightguns);;;;;;;;;;;;;;;;;;0;;;;;
+Mighty Hits (Europe);Mighty Hits - Sega Saturn Version;Sega Saturn (Lightguns);;;;;;;;;;;;;;;;;;0;;;;;
+Scud the Disposable Assassin;Scud the Disposable Assassin;Sega Saturn (Lightguns);;;;;;;;;;;;;;;;;;0;;;;;

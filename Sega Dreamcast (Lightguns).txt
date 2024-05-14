@@ -1,0 +1,6 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Confidential Mission;Confidential Mission - Dreamcast Version;Sega Dreamcast (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Death Crimson OX;Death Crimson OX - Dreamcast Version;Sega Dreamcast (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Death Crimson 2 - Meranito no Saidan;Death Crimson 2 - Meranito no Saidan - Dreamcast Version;Sega Dreamcast (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+House of the Dead 2;The House of the Dead II - Dreamcast Version;Sega Dreamcast (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Virtua Cop 2;Virtua Cop 2 - Dreamcast Version;Sega Dreamcast (Lightguns);;;;;;;;;;;;;;;;;0;;;;;

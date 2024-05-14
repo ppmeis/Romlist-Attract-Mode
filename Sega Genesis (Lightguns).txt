@@ -1,0 +1,4 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Body Count (Europe) (En,Fr,De,Es,It);Body Count (Europe) (En,Fr,De,Es,It);Sega Genesis (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+Menacer 6-Game Cartridge (USA, Europe)_Endast med Ljuspistol;Menacer 6-Game Cartridge (USA, Europe)_Endast med Ljuspistol;Sega Genesis (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+T2 - The Arcade Game (USA, Europe);T2 - The Arcade Game - Version Sega Genesis;Sega Genesis (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;

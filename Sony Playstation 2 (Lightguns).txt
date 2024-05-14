@@ -1,0 +1,13 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Dino Stalker;Dino Stalker - PS2;Sony Playstation 2 (Lightguns);;;;2002;Capcom;Shooter/Gun;;;;;;;;;;0;;;;;
+Endgame;Endgame;Sony Playstation 2 (Lightguns);;;;2002;Empire Interactive;Shooter/Gun;;;;;;;;;;0;;;;;
+Guncom 2;Guncom 2;Sony Playstation 2 (Lightguns);;;;2003;Ecole Software;Shooter/Gun;;;;;;;;;;0;;;;;
+Gunfighter II - Revenge of Jesse James;Sony Playstation 2 (Lightguns);;;;2003;Ubisoft;Shooter/Gun;;;;;;;;;;0;;;;;
+Ninja Assault (USA);Ninja Assault - PS2 Version;Sony Playstation 2 (Lightguns);;;;2002;Namco, NOW Production;Shooter/Gun;;;;;;;;;;0;;;;;
+Resident Evil - Survivor 2 - Code - Veronica;Resident Evil - Survivor 2 - Code - Veronica;Sony Playstation 2 (Lightguns);;;;2001;Capcom;Shooter/Gun;;;;;;;;;;0;;;;;
+Silent Scope;Silent Scope PS2 Version;Sony Playstation 2 (Lightguns);;;;;;Sniper;;;;;;;;;;0;;;;;
+Time Crisis - Crisis Zone (USA);Time Crisis - Crisis Zone - PS2 Version;Sony Playstation 2 (Lightguns);;;;1995;Namco;Shooter/Gun;;;;;;;;;;0;;;;;
+Time Crisis 2 (USA);Time Crisis 2 - PS2 Version;Sony Playstation 2 (Lightguns);;;;1997;Namco;Shooter/Gun;;;;;;;;;;0;;;;;
+Time Crisis 3 (USA);Time Crisis 3 - PS2 Version;Sony Playstation 2 (Lightguns);;;;2002;Namco, Nex Entertainment;Shooter;;;;;;;;;;0;;;;;
+Vampire Night PS2;Vampire Night - PS2 Version;Sony Playstation 2 (Lightguns);;;;2000;Sega;Shooter;;;;;;;;;;0;;;;;
+Virtua Cop - Elite Edition (Europe);Virtua Cop - Elite Edition - PS2 Version;Sony Playstation 2 (Lightguns);;;;2002;Sega-AM2;Shooter/Gun;;;;;;;;;;0;;;;;
