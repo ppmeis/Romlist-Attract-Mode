@@ -1,0 +1,17 @@
+Fatal Fury (U);Fatal Fury (USA);Sega Genesis;Fatal Fury Collection;1993;SNK;Fighter;;;;;0;;;;;
+Fatal Fury (USA);Fatal Fury (USA);Super Nintendo Entertainment System;Fatal Fury Collection;1993;Takara;Fighter;;;;;0;;;;;
+Fatal Fury - Wild Ambition (USA);Fatal Fury - Wild Ambition (USA);Sony Playstation;Fatal Fury Collection;1999;SNK;Fighter;;;;;0;;;;;
+Fatal Fury 2 (USA);Fatal Fury 2 (USA);Super Nintendo Entertainment System;Fatal Fury Collection;1994;Takuyo;Fighter;;;;;0;;;;;
+Fatal Fury 2 (USA, Korea);Fatal Fury 2 (USA, Korea);Sega Genesis;Fatal Fury Collection;1994;SNK;Fighter;;;;;0;;;;;
+Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja);Fatal Fury F-Contact (World) (En,Ja);SNK Neo Geo Pocket Color;;1999;SNK;Fighter;;;;;0;;;;;
+Fatal Fury Special (USA);Fatal Fury Special (USA);Mega CD;Fatal Fury Collection;1995;JVC Digital Studios;Fighter;;;;;0;;;;;
+Fatal Fury Special (USA, Europe);Fatal Fury Special (USA);Sega Game Gear;Fatal Fury Collection;1994;SNK;Fighter;;;;;0;;;;;
+Fatal Fury Special (USA);Fatal Fury Special (USA);Super Nintendo Entertainment System;Fatal Fury Collection;1995;Takuyo;Fighter;;;;;0;;;;;
+fatfursp;Fatal Fury Special / Garou Densetsu Special;Arcade;Fatal Fury Collection;1993;SNK;;;;;;0;;;;;
+fatfury1;Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai;Arcade;Fatal Fury Collection;1992;SNK;;;;;;0;;;;;
+fatfury2;Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai;Arcade;Fatal Fury Collection;1992;SNK;;;;;;0;;;;;
+fatfury3;Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai;Arcade;Fatal Fury Collection;1995;SNK;;;;;;0;;;;;
+rbff1;Real Bout Fatal Fury / Real Bout Garou Densetsu;Arcade;Fatal Fury Collection;1995;SNK;;;;;;0;;;;;
+rbff2;Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers;Arcade;Fatal Fury Collection;1998;SNK;;;;;;0;;;;;
+rbffspec;Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special;Arcade;Fatal Fury Collection;1996;SNK;;;;;;0;;;;;
+garou;Fatal Fury - Mark of the Wolves (USA);Arcade;Fatal Fury Collection;2001;Agetec Inc.;Fighter;;;;;0;;;;;

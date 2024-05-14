@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+agallet;agallet;Cave Classics; ; ; ; ;;;;;0;;;;;
+crusherm;crusherm;Cave Classics; ; ; ; ;;;;;0;;;;;
+ddonpach;ddonpach;Cave Classics; ; ; ; ;;;;;0;;;;;
+deathsml;deathsml;Cave Classics; ; ; ; ;;;;;0;;;;;
+donpachi;donpachi;Cave Classics; ; ; ; ;;;;;0;;;;;
+espgal;espgal;Cave Classics; ; ; ; ;;;;;0;;;;;
+espgal2;espgal2;Cave Classics; ; ; ; ;;;;;0;;;;;
+esprade;esprade;Cave Classics; ; ; ; ;;;;;0;;;;;
+feversos;feversos;Cave Classics; ; ; ; ;;;;;0;;;;;
+gaia;gaia;Cave Classics; ; ; ; ;;;;;0;;;;;
+guwange;guwange;Cave Classics; ; ; ; ;;;;;0;;;;;
+hotdogst;hotdogst;Cave Classics; ; ; ; ;;;;;0;;;;;
+ibara;ibara;Cave Classics; ; ; ; ;;;;;0;;;;;
+ibarablk;ibarablk;Cave Classics; ; ; ; ;;;;;0;;;;;
+ket;ket;Cave Classics; ; ; ; ;;;;;0;;;;;
+mazinger;mazinger;Cave Classics; ; ; ; ;;;;;0;;;;;
+metmqstr;metmqstr;Cave Classics; ; ; ; ;;;;;0;;;;;
+mmpork;mmpork;Cave Classics; ; ; ; ;;;;;0;;;;;
+mushisam;mushisam;Cave Classics; ; ; ; ;;;;;0;;;;;
+plegends;plegends;Cave Classics; ; ; ; ;;;;;0;;;;;
+pwrinst2;pwrinst2;Cave Classics; ; ; ; ;;;;;0;;;;;
+sailormn;sailormn;Cave Classics; ; ; ; ;;;;;0;;;;;
+uopoko;uopoko;Cave Classics; ; ; ; ;;;;;0;;;;;

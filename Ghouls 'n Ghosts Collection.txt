@@ -1,0 +1,25 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Belial_v1.0;Belial Commodore Amiga;Commodore Amiga;Ghouls 'n Ghosts Collection;;;;;;;;;0;;;;;
+Dai Makaimura (Japan);Dai Makaimura -NEC Turbografx-16-;NEC Turbografx-16;Ghouls 'n Ghosts Collection;;1990;NEC Avenue;Action;;;;;0;;;;;
+Daimakaimura - Ghouls & Ghosts (Capcom) (Craig);Daimakaimura - Ghouls & Ghosts -Sharp X68000-;Sharp X68000;Ghouls 'n Ghosts Collection;;;;;;;;;0;;;;;
+Demon's Crest (USA);Demon's Crest -Super Nintendo-;Super Nintendo Entertainment System;Ghouls 'n Ghosts Collection;;1994;Capcom;Platform;;;;;0;;;;;
+Gargoyle's Quest II - The Demon Darkness (USA);Gargoyle's Quest II -Nintendo Entertainment System-;Nintendo Entertainment System;Ghouls 'n Ghosts Collection;;1992;Capcom;Adventure;;;;;0;;;;;
+Gargoyle's Quest - Ghosts'n Goblins (USA, Europe);Gargoyle's Quest -Game Boy-;Nintendo Game Boy;Ghouls 'n Ghosts Collection;;1990;Capcom;Adventure;;;;;0;;;;;
+Ghosts 'n Goblins (1986)(Elite);Ghosts 'n Goblins -Commodore 64-;Commodore 64;Ghouls 'n Ghosts Collection;;1989;US Gold/Capcom;Platform;;;;;0;;;;;
+Ghosts 'n Goblins (Europe);Ghosts 'n Goblins -Amstrad CPC-;Amstrad CPC;Ghouls 'n Ghosts Collection;;1986;Elite Systems;Platform;;;;;0;;;;;
+Ghosts'n Goblins (USA);Ghosts'n Goblins -Nintendo Entertainment System-;Nintendo Entertainment System;Ghouls 'n Ghosts Collection;;1986;Capcom;Platform;;;;;0;;;;;
+Ghosts'n Goblins (USA, Europe);Ghosts'n Goblins -Game Boy Color-;Nintendo Game Boy Color;Ghouls 'n Ghosts Collection;;2000;Capcom;Platform;;;;;0;;;;;
+Ghost n Goblins;Ghost n Goblins -Sinclair ZX Spectrum-;Sinclair ZX Spectrum;Ghouls 'n Ghosts Collection;;;;;;;;;0;;;;;
+gng;Ghosts'n Goblins -Arcade-;Arcade;Ghouls 'n Ghosts Collection;;1985;Capcom;Platform;;;;;0;;;;;
+GhoulsNGhosts_v1.0_2252;Ghouls 'N Ghosts -Commodore Amiga-;Commodore Amiga;Ghouls 'n Ghosts Collection;;;;;;;;;0;;;;;
+Ghouls 'n Ghosts (USA, Europe);Ghouls 'n Ghosts -Sega Genesis-;Sega Genesis;Ghouls 'n Ghosts Collection;;1989;AM8;Platform;;;;;0;;;;;
+Ghouls n Ghost;Ghouls 'n' Ghosts -Sinclair ZX Spectrum-;Sinclair ZX Spectrum;Ghouls 'n Ghosts Collection;;;;;;;;;0;;;;;
+Ghouls 'n' Ghosts (Europe);Ghouls 'n' Ghosts -Amstrad CPC-;Amstrad CPC;Ghouls 'n Ghosts Collection;;1989;U.S. Gold;Platform;;;;;0;;;;;
+Ghouls'n Ghosts (USA, Europe);Ghouls'n Ghosts -Sega Master System-;Sega Master System;Ghouls 'n Ghosts Collection;;1990;Sega;Platform;;;;;0;;;;;
+ghouls;Ghouls'n Ghosts -Arcade-;Arcade;Ghouls 'n Ghosts Collection;;1988;Capcom;Platform;;;;;0;;;;;
+Ghouls'n'Ghosts (Europe);Ghouls'n'Ghosts -Commodore 64-;Commodore 64;Ghouls 'n Ghosts Collection;;1989;US Gold/Capcom;Platform;;;;;0;;;;;
+Makaimura for WonderSwan (Japan);Makaimura for WonderSwan;Wonderswan;Ghouls 'n Ghosts Collection;;1999;Bandai;Action;;;;;0;;;;;
+Maximo - Ghosts to Glory (USA);Maximo - Ghosts to Glory -Playstation 2-;Sony Playstation 2;Ghouls 'n Ghosts Collection;;2003;Capcom;Platform;;;;;0;;;;;
+Super Ghouls'n Ghosts (USA);Super Ghouls'n Ghosts -Super Nintendo-;Super Nintendo Entertainment System;Ghouls 'n Ghosts Collection;;1991;Capcom;Platform;;;;;0;;;;;
+Ultimate Ghosts'n Goblins;Ultimate Ghosts 'n Goblins -Sony PSP-;Sony PSP;Ghouls 'n Ghosts Collection;;2006;Capcom;Platform;;;;;0;;;;;
+Ghosts n Goblins Resurrection;Ghosts n Goblins Resurrection;PC Games;Ghouls 'n Ghosts Collection;;;;;;;;;0;;;;;

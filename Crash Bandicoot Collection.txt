@@ -1,0 +1,22 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Crash Bandicoot;Crash Bandicoot Sony Playstation;Sony Playstation;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bandicoot 2 - Cortex Strikes Back;Crash Bandicoot 2 - Cortex Strikes Back Sony Playstation;Sony Playstation;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bandicoot 3 - Warped;Crash Bandicoot 3 - Warped Sony Playstation;Sony Playstation;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bandicoot - The Wrath of Cortex;Crash Bandicoot 4 - The Wrath of Cortex Nintendo Gamecube;Nintendo Gamecube;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Twinsanity;Crash Twinsanity;Sony Playstation 2;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bandicoot N Sane Trilogy;Crash Bandicoot N Sane Trilogy PC;Crash Bandicoot Collection;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Lucha de Titanes;Crash Lucha de Titanes PSP;Sony PSP;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash of the Titans (USA);Crash of the Titans Nintendo DS;Nintendo DS;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Mind Over Mutants;Crash Mind Over Mutants Nintendo Wii;Nintendo Wii;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Mind Over Mutants;Crash Mind Over Mutants PSP;Sony PSP;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash - Mind over Mutant (USA);Crash - Mind over Mutant Nintendo DS;Nintendo DS;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Tag Team Racing;Crash Tag Team Racing PSP;Sony PSP;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bandicoot - The Huge Adventure (USA);Crash Bandicoot - The Huge Adventure Nintendo Game Boy Advance;Nintendo Game Boy Advance;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl);Crash Bandicoot 2 - N-Tranced Nintendo Game Boy Advance;Nintendo Game Boy Advance;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bandicoot Purple - Ripto's Rampage (USA);Crash Bandicoot Purple - Ripto's Rampage Nintendo Game Boy Advance;Nintendo Game Boy Advance;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Superpack (USA);Crash Superpack Nintendo Game Boy Advance;Nintendo Game Boy Advance;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash of the Titans (Europe) (En,Fr,De,Es,It,Nl);Crash of the Titans Nintendo Game Boy Advance;Nintendo Game Boy Advance;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Nitro Kart (Europe) (En,Fr,De,Es,It,Nl);Crash Nitro Kart Nintendo Game Boy Advance;Nintendo Game Boy Advance;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Nitro Kart;Crash Nitro Kart Nintendo Gamecube;Nintendo Gamecube;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Bash;Crash Bash;Sony Playstation;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;
+Crash Boom Bang;Crash Boom Bang!;Nintendo DS;Crash Bandicoot Collection; ; ; ; ;;;;;0;;;;;

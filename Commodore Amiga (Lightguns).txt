@@ -1,0 +1,10 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Capone_v1.1;Capone;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+CrazyShot_v1.1_2404;Crazy Shot;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+OperationThunderbolt_v1.3a_0547;Operation Thunderbolt - Commodore Amiga Version;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+OperationWolf_v1.2_1128;Operation Wolf - Commodore Amiga Version;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+POW_v1.1;Prisoners Of War - Commodore Amiga Version;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+SideShow_v1.1_0779;Side Show - Commodore Amiga Version;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+SpaceGun_v1.1;Space Gun - Commodore Amiga Version;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+TakeEmOut_v1.0;TakeEm Out - Commodore Amiga Version;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;
+WestPhaser_v1.1;West Phaser - Commodore Amiga Version;Commodore Amiga (Lightguns);Commodore Amiga (Lightguns);;;;Shooter/Gun;;;;;;;;;;0;;;;;

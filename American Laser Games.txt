@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+crimepatrol;crimepatrol;American Laser Games;;;;;;;;;;;;;;
+drugwars;drugwars;American Laser Games;;;;;;;;;;;;;;
+hayate;hayate;American Laser Games;;;;;;;;;;;;;;
+johnnyrock;johnnyrock;American Laser Games;;;;;;;;;;;;;;
+lbh;lbh;American Laser Games;;;;;;;;;;;;;;
+maddog;maddog;American Laser Games;;;;;;;;;;;;;;
+maddog2;maddog2;American Laser Games;;;;;;;;;;;;;;
+spacepirates;spacepirates;American Laser Games;;;;;;;;;;;;;;
+timegal;timegal;American Laser Games;;;;;;;;;;;;;;
+timetraveler;timetraveler;American Laser Games;;;;;;;;;;;;;;
