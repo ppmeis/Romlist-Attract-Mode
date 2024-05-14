@@ -1,0 +1,21 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+archrivl;Arch Rivals;Midway;;1989;;;;;;;0;;;;;
+blasted;Blasted;Midway;;1988;;;;;;;0;;;;;
+carnevil;Carnevil;Midway;;1998;;;;;;;0;;;;;
+crusnusa;Cruis'n USA;Midway;;1994;;;;;;;0;;;;;
+crusnwld;Cruis'n World;Midway;;1996;;;;;;;0;;;;;
+galaga;Galaga;Midway;;1981;;;;;;;0;;;;;
+jdreddp;Judge Dredd;Midway;;1993;;;;;;;0;;;;;
+kinst;Killer Instinct;Midway;;1994;;;;;;;0;;;;;
+kinst2;Killer Instinct 2;Midway;;1996;;;;;;;0;;;;;
+mk;Mortal Kombat;Midway;;1992;;;;;;;0;;;;;
+mk2;Mortal Kombat II;Midway;;1993;;;;;;;0;;;;;
+mk3;Mortal Kombat 3;Midway;;1994;;;;;;;0;;;;;
+umk3;Ultimate Mortal Kombat 3;Midway;;1994;;;;;;;0;;;;;
+mk4;Mortal Kombat 4;Midway;;1997;;;;;;;0;;;;;
+mspacman;Ms. Pac-Man;Midway;;1981;;;;;;;0;;;;;
+nbahangt;NBA Hangtime;Midway;;1996;;;;;;;0;;;;;
+nbajam;NBA Jam;Midway;;1993;;;;;;;0;;;;;
+pacplus;Pac-Man Plus;Midway;;1982;;;;;;;0;;;;;
+tm;Touchmaster;Midway;;1996;;;;;;;0;;;;;
+wwfmania;WWF: Wrestlemania;Midway;;1995;;;;;;;0;;;;;
