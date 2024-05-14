@@ -1,0 +1,14 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+DEMONS TILT;Demons Tilt;Pinball Windows;;;;;0;;;;;
+Malzbies Pinball Collection;Malzbies Pinball Collection;Pinball Windows;;;;;0;;;;;
+Momonga Pinball Adventures;Momonga Pinball Adventures;Pinball Windows;;;;;0;;;;;
+Pinball Parlor;Pinball Parlor;Pinball Windows;;;;;0;;;;;
+Pinball Wicked;Pinball Wicked;Pinball Windows;;;;;0;;;;;
+Pro Pinball - Big Race USA;Pro Pinball - Big Race USA;Pinball Windows;;;;;0;;;;;
+Pro Pinball Ultra;Pro Pinball Ultra;Pinball Windows;;;;;0;;;;;
+Pure Pinball 2 REDUX;Pure Pinball 2 REDUX;Pinball Windows;;;;;0;;;;;
+Rollers of the Realm;Rollers of the Realm;Pinball Windows;;;;;0;;;;;
+Senran Kagura Peach Ball;Senran Kagura Peach Ball;Pinball Windows;;;;;0;;;;;
+Stern Pinball Arcade - Star Trek;Stern Pinball Arcade - Star Trek;Pinball Windows;;;;;0;;;;;
+Zaccaria Pinball;Zaccaria Pinball;Pinball Windows;;;;;0;;;;;
+Zombie Pinball;Zombie Pinball;Pinball Windows;;;;;0;;;;;
