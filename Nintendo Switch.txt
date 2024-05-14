@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+BurgerTime Party;BurgerTime Party;Nintendo Switch;;2019;Marvelous (XSEED);Arcade, Party, Puzzle;4;;;;0;;;;;;;;;E - Everyone
+Captain Toad - Treasure Tracker;Captain Toad - Treasure Tracker;Nintendo Switch;;2018;nintendo;Platformer, Puzzle;2;;;;0;;;;;;;;;E - Everyone
+Crash team racing nitro-fueled;Crash team racing nitro-fueled;Nintendo Switch;;2019;Activision;Racing, Arcade;4;;;;0;;;Crash Team Racing: Nitro-Fueled;;;;;;E10+ - Everyone 10+
+Donkey Kong Country-Tropical Freeze;Donkey Kong Country-Tropical Freeze;Nintendo Switch;;;;;;;;;0;;;;;;;;;
+Hyrule Warriors Age of Calamity;Hyrule Warriors Age of Calamity;Nintendo Switch;;2020;Koei Tecmo;Adventure, Action;2;;;;0;;;;;;;;;T - Teen
+kirby star allies;kirby star allies;Nintendo Switch;;2018;Nintendo;Platformer, Action;4;;;;0;;;Kirby Star Allies;;;;;;E10+ - Everyone 10+
+Luigis Mansion 3;Luigis Mansion 3;Nintendo Switch;;2019;Nintendo;Adventure, Action;8;;;;0;;;;;;;;;E - Everyone
+Mario Kart 8 Deluxe;Mario Kart 8 Deluxe;Nintendo Switch;;2017;Nintendo;Racing, Multiplayer;4;;;;0;;;Mario Kart 8 Deluxe;;;;;;E - Everyone
+New Super Mario Bros. U Deluxe;New Super Mario Bros. U Deluxe;Nintendo Switch;;2019;Nintendo;Platformer, Action;4;;;;0;;;New Super Mario Bros. U Deluxe;;;;;;E - Everyone
+Ninja Saviors Return of the Warriors;Ninja Saviors Return of the Warriors;Nintendo Switch;;2019;nWay;Fighting, Action;2;;;;0;;;;;;;;;T - Teen
+Paper Mario The Origami King;Paper Mario The Origami King;Nintendo Switch;;2020;nintendo;Adventure, Action;1;;;;0;;;;;;;;;E - Everyone
+Puzzle Quest The Legend Returns;Puzzle Quest The Legend Returns;Nintendo Switch;;2019;Infinite Interactive;Puzzle, Role-Playing;2;;;;0;;;;;;;;;E10+ - Everyone 10+
+Robotech The Macross Saga HD Edition;Robotech The Macross Saga HD Edition;Nintendo Switch;;2021;GPC Games;Action, Arcade;2;;;;0;;;;;;;;;E10+ - Everyone 10+
+Rolling Gunner plus Over Power;Rolling Gunner plus Over Power;Nintendo Switch;;2019;mebius;Action, Arcade;1;;;;0;;;;;;;;;E10+ - Everyone 10+
+Space warrior;Space warrior;Nintendo Switch;;2021;Nikita Alexeevich;Simulation, Action;1;;;;0;;;;;;;;;E10+ - Everyone 10+
+Super Mario 3D World + Bowsers Fury;Super Mario 3D World + Bowsers Fury;Nintendo Switch;;2021;Nintendo;Platformer, Action;4;;;;0;;;;;;;;;E - Everyone
+SUPER MARIO MAKER 2;SUPER MARIO MAKER 2;Nintendo Switch;;2019;Nintendo;Platformer, Action;1;;;;0;;;Super Mario Maker 2;;;;;;E - Everyone
+Super Mario Odyssey;Super Mario Odyssey;Nintendo Switch;;2017;Nintendo;Platformer, Action;2;;;;0;;;Super Mario Odyssey;;;;;;E10+ - Everyone 10+
+Super Smash Bros Ultimate;Super Smash Bros Ultimate;Nintendo Switch;;2018;Nintendo;Action, Fighting;8;;;;0;;;Super Smash Bros. Ultimate;;;;;;E10+ - Everyone 10+
+The Legend of Zelda Breath of the Wild;The Legend of Zelda Breath of the Wild;Nintendo Switch;;2017;Nintendo;Action, Role-Playing;1;;;;0;;;The Legend of Zelda: Breath of the Wild;;;;;;E10+ - Everyone 10+
+The Legend of Zelda Links Awakening;The Legend of Zelda Links Awakening;Nintendo Switch;;2019;Nintendo;Adventure, Action;1;;;;0;;;The Legend of Zelda: Link's Awakening;;;;;;E - Everyone
+The Mysterious Case of Dr Jekyll and Mr Hyde;The Mysterious Case of Dr.Jekyll and Mr.Hyde;Nintendo Switch;;2021;Ocean Media;Adventure, Puzzle;1;;;;0;;;;;;;;;T - Teen
+Touhou Hyouibana Antinomy of Common Flowers;Touhou Hyouibana Antinomy of Common Flowers;Nintendo Switch;;2021;Phoenixx;Action, Fighting;2;;;;0;;;;;;;;;T - Teen
+Ultra Street Fighter II - The Final Challengers;Ultra Street Fighter II - The Final Challengers;Nintendo Switch;;2017;capcom;Action, Fighting, Arcade;2;;;;0;;;;;;;;;T - Teen
+Yoshi's Crafted World;Yoshi's Crafted World;Nintendo Switch;;;;;;;;;0;;;;;;;;;

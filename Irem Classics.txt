@@ -1,0 +1,23 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+airduel;airduel;Irem Classics; ; ; ; ;;;;;0;;;;;
+bbmanw;bbmanw;Irem Classics; ; ; ; ;;;;;0;;;;;
+bchopper;bchopper;Irem Classics; ; ; ; ;;;;;0;;;;;
+bmaster;bmaster;Irem Classics; ; ; ; ;;;;;0;;;;;
+cosmccop;cosmccop;Irem Classics; ; ; ; ;;;;;0;;;;;
+dbreed;dbreed;Irem Classics; ; ; ; ;;;;;0;;;;;
+firebarr;firebarr;Irem Classics; ; ; ; ;;;;;0;;;;;
+gunforce;gunforc;Irem Classics; ; ; ; ;;;;;0;;;;;
+gunforc2;gunforc2;Irem Classics; ; ; ; ;;;;;0;;;;;
+hharry;hharry;Irem Classics; ; ; ; ;;;;;0;;;;;
+hook;hook;Irem Classics; ; ; ; ;;;;;0;;;;;
+inthunt;inthunt;Irem Classics; ; ; ; ;;;;;0;;;;;
+kengo;kengo;Irem Classics; ; ; ; ;;;;;0;;;;;
+lethalth;lethalth;Irem Classics; ; ; ; ;;;;;0;;;;;
+loht;loht;Irem Classics; ; ; ; ;;;;;0;;;;;
+majtitl2;majtitl2;Irem Classics; ; ; ; ;;;;;0;;;;;
+mysticri;mysticri;Irem Classics; ; ; ; ;;;;;0;;;;;
+nbbatman;nbbatman;Irem Classics; ; ; ; ;;;;;0;;;;;
+nspirit;nspirit;Irem Classics; ; ; ; ;;;;;0;;;;;
+riskchal;riskchal;Irem Classics; ; ; ; ;;;;;0;;;;;
+ssoldier;ssoldier;Irem Classics; ; ; ; ;;;;;0;;;;;
+uccops;uccops;Irem Classics; ; ; ; ;;;;;0;;;;;

@@ -1,0 +1,9 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Corpse Killer (32X) (USA);Corpse Killer Version Sega CD);MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Crime Patrol (USA);Crime Patrol (USA);MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Lethal Enforcers (USA);Lethal Enforcers - Sega CD Version;MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Lethal Enforcers II - Gun Fighters (USA);Lethal Enforcers II - Gun Fighters - Sega CD Version;MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Mad Dog McCree (USA);Mad Dog McCree - Sega CD Version;MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Mad Dog McCree II - The Lost Gold (USA);Mad Dog McCree II - The Lost Gold - Sega CD Version;MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Snatcher (USA);Snatcher;MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Who Shot Johnny Rock (USA);Who Shot Johnny Rock - Sega CD Version;MEGA CD (Lightguns);;;;;;;;;;;;;;;;;0;;;;;

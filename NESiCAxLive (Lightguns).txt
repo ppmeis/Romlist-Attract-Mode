@@ -1,0 +1,10 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Block King Ball Shooter;Block King Ball Shooter;NESiCAxLive (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+Elevator Action Death Parade;Elevator Action Death Parade;NESiCAxLive (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+Gaia Attack 4;Gaia Attack 4;NESiCAxLive (Lightguns);;;;;;;;;;0;;;;;
+Gundam - Spirits of Zeon;Gundam - Spirits of Zeon;NESiCAxLive (Lightguns);;;;;2006;Banpresto;;;;;;;;;;;;0;;;;;
+Haunted Museum;Haunted Museum;NESiCAxLive (Lightguns);;;;;;;;;;0;;;;;
+Haunted Museum 2;Haunted Museum 2;NESiCAxLive (Lightguns);;;;;;;;;;0;;;;;
+Music Gun Gun 2;Music Gun Gun! 2;NESiCAxLive (Lightguns);;;;2010;Taito;Shooter/Gun;;;;;;;;;;0;;;;;
+Silent Hill Arcade;Silent Hill Arcade;NESiCAxLive (Lightguns);;;;;2010;Konami;;;;;;;;;;;;0;;;;;
+The House of the Dead III;The House of the Dead III;NESiCAxLive (Lightguns);;;;1999;Sega;Shooter/Gun;;;;;;;;;;0;;;;;

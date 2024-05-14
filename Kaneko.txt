@@ -1,0 +1,21 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+berlwall;berlwall;Kaneko; ; ; ; ;;;;;0;;;;;
+bloodwar;bloodwar;Kaneko; ; ; ; ;;;;;0;;;;;
+boggy84;boggy84;Kaneko; ; ; ; ;;;;;0;;;;;
+bonkadv;bonkadv;Kaneko; ; ; ; ;;;;;0;;;;;
+brapboys;brapboys;Kaneko; ; ; ; ;;;;;0;;;;;
+cyvern;cyvern;Kaneko; ; ; ; ;;;;;0;;;;;
+explbrkr;explbrkr;Kaneko; ; ; ; ;;;;;0;;;;;
+galpanic;galpani;Kaneko; ; ; ; ;;;;;0;;;;;
+galpani2;galpani2;Kaneko; ; ; ; ;;;;;0;;;;;
+galpani3;galpani3;Kaneko; ; ; ; ;;;;;0;;;;;
+galpani4;galpani4;Kaneko; ; ; ; ;;;;;0;;;;;
+galpanis;galpanis;Kaneko; ; ; ; ;;;;;0;;;;;
+gtmr2;gtmr2;Kaneko; ; ; ; ;;;;;0;;;;;
+gtmre;gtmre;Kaneko; ; ; ; ;;;;;0;;;;;
+jchan;jchan;Kaneko; ; ; ; ;;;;;0;;;;;
+jchan2;jchan2;Kaneko; ; ; ; ;;;;;0;;;;;
+jumpcoas;jumpcoas;Kaneko; ; ; ; ;;;;;0;;;;;
+mgcrystl;mgcrystl;Kaneko; ; ; ; ;;;;;0;;;;;
+redclash;redclash;Kaneko; ; ; ; ;;;;;0;;;;;
+shogwarr;shogwarr;Kaneko; ; ; ; ;;;;;0;;;;;

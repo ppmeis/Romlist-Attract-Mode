@@ -1,0 +1,28 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Akai Katana Shin;Akai Katana Shin;NESiCAxLive;;;;;;;;;0;;;;;
+Aquapazza Aqua plus Dream Match;Aquapazza Aqua plus Dream Match;NESiCAxLive;;;;;;;;;0;;;;;
+Arcana Heart 3 LOVE MAX!!!!;Arcana Heart 3 LOVE MAX;NESiCAxLive;;;;;;;;;0;;;;;
+Battle Fantasia;Battle Fantasia;NESiCAxLive;;;;;;;;;0;;;;;
+BlazBlue Continuum Shift;BlazBlue Continuum Shift;NESiCAxLive;;;;;;;;;0;;;;;
+BlazBlue Calamity Trigger;BlazBlue Calamity Trigger;NESiCAxLive;;;;;;;;;0;;;;;
+BlazBlue Chronophantasm;BlazBlue Chronophantasm;NESiCAxLive;;;;;;;;;0;;;;;
+Chaos Breaker;Chaos Breaker;NESiCAxLive;;;;;;;;;0;;;;;
+Chaos Code - New Sign of Catastrophe;Chaos Code - New Sign of Catastrophe;NESiCAxLive;;;;;;;;;0;;;;;
+Crimzon Clover;Crimzon Clover;NESiCAxLive;;;;;;;;;0;;;;;
+Daemon Bride;Daemon Bride;NESiCAxLive;;;;;;;;;0;;;;;
+DeathSmiles II;DeathSmiles II;NESiCAxLive;;;;;;;;;0;;;;;
+Elevator Action;Elevator Action;NESiCAxLive;;;;;;;;;0;;;;;
+Homura;Homura;NESiCAxLive;;;;;;;;;0;;;;;
+Nitroplus Blasterz;Nitroplus Blasterz;NESiCAxLive;;;;;;;;;0;;;;;
+Raiden III;Raiden III;NESiCAxLive;;;;;;;;;0;;;;;
+Raiden IV;Raiden IV;NESiCAxLive;;;;;;;;;0;;;;;
+Rumble Fish 2;Rumble Fish 2;NESiCAxLive;;;;;;;;;0;;;;;
+Samurai Spirits Sen;Samurai Spirits Sen;NESiCAxLive;;;;;;;;;0;;;;;
+King of Fighters 2002 Unlimited Match;The King of King of Fighters 2002 Unlimited Match;NESiCAxLive;;;;;;;;;0;;;;;
+King of Fighters '98 Ultimate Match Final Edition;The King of King of Fighters '98 Ultimate Match Final Edition;NESiCAxLive;;;;;;;;;0;;;;;
+The King of Fighters XIII;The King of Fighters XIII;NESiCAxLive;;;;;;;;;0;;;;;
+The King of Fighters Maximum Impact Regulation A;The King of Fighters Maximum Impact Regulation A;NESiCAxLive;;;;;;;;;0;;;;;
+The King of Fighters XII;The King of Fighters XII;NESiCAxLive;;;;;;;;;0;;;;;
+The King of Fighters XIII;The King of Fighters XIII;NESiCAxLive;;;;;;;;;0;;;;;
+Trouble Witches AC - Amalgam no Joutachi;Trouble Witches AC - Amalgam no Joutachi;NESiCAxLive;;;;;;;;;0;;;;;
+Ultra StreetFighter IV;Ultra Street Fighter IV;NESiCAxLive;;;;;;;;;0;;;;;

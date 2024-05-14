@@ -1,0 +1,15 @@
+﻿#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Baby Boomer (USA) (Unl);Baby Boomer (USA) (Unl);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Barker Bill's Trick Shooting (USA);Barker Bill's Trick Shooting (USA);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Chiller (USA) (Unl);Chiller - Nes Version;Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Duck Hunt (World);Duck Hunt (World);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Freedom Force (USA);Freedom Force (USA);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Gotcha! - The Sport! (USA);Gotcha! - The Sport! (USA);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Gumshoe (USA, Europe);Gumshoe (USA, Europe);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Hogan's Alley (World);Hogan's Alley (World);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Laser Invasion (USA);Laser Invasion (USA);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Mechanized Attack (USA);Mechanized Attack- Nes Version;Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Operation Wolf (USA) (Rev 0A);Operation Wolf - Nes Version;Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Shooting Range (USA);Shooting Range (USA);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+To the Earth (USA);To the Earth (USA);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Wild Gunman (World) (Rev A);Wild Gunman (World) (Rev A);Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;

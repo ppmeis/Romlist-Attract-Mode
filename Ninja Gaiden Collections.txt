@@ -1,0 +1,19 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+gaiden;Ninja Gaiden - Arcade;Arcade;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden (USA, Europe);Ninja Gaiden (USA, Europe);Atari Lynx;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe);Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe);Atari Lynx;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden Episode II - The Dark Sword Of Chaos (USA);Ninja Gaiden Episode II - The Dark Sword Of Chaos (USA);Commodore Amiga;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+ShadowWarriors_v1.1_0830;ShadowWarriors_v1.1_0830;Commodore Amiga;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Shadow Warriors (Europe);Shadow Warriors (Europe);Sinclair ZX Spectrum;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden - Dragon Sword (USA);Ninja Gaiden - Dragon Sword;Nintendo DS;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden (USA);Ninja Gaiden (USA);Nintendo Entertainment System;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden Episode II - The Dark Sword of Chaos (USA);Ninja Gaiden Episode II - The Dark Sword of Chaos (USA);Nintendo Entertainment System;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden Episode III - The Ancient Ship of Doom (USA);Ninja Gaiden Episode III - The Ancient Ship of Doom (USA);Nintendo Entertainment System;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden Shadow (USA);Ninja Gaiden Shadow (USA);Nintendo Game Boy;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden (USA, Europe);Ninja Gaiden;Sega Game Gear;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden (E) [T+Spa100_Pkt];Ninja Gaiden (E) [T+Spa100_Pkt];Sega Master System;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden Trilogy (USA);Ninja Gaiden Trilogy (USA);Super Nintendo Entertainment System;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden Sigma;Ninja Gaiden Sigma - PC;Ninja Gaiden Collections;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden Sigma 2;Ninja Gaiden Sigma 2 - PC;Ninja Gaiden Collections;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Ninja Gaiden 3;Ninja Gaiden 3 - PC;Ninja Gaiden Collections;Ninja Gaiden Collections;;;;;;;;;0;;;;;
+Yaiba - Ninja Gaiden Z;Yaiba - Ninja Gaiden Z - PC;Ninja Gaiden Collections;Ninja Gaiden Collections;;;;;;;;;0;;;;;

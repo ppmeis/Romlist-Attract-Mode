@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Activision Anthology (USA);Activision Anthology;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Ace Combat Advance (USA, Europe);Ace Combat Advance;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+AirForce Delta Storm (USA) (En,Ja,Fr,De);AirForce Delta Storm;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Classic NES Series - Xevious (USA, Europe);Classic NES Series - Xevious;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Danny Phantom - Urban Jungle (USA);Danny Phantom - Urban Jungle;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Darius R (Japan) (En);Darius R;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Defender (USA);Defender;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Gradius Galaxies (USA);Gradius Galaxies;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Hudson Best Collection Vol. 5 - Shooting Collection (Japan);Hudson Best Collection Vol. 5 - Shooting Collection;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Invader (Europe);Invader;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Iridion 3D (USA, Europe);Iridion 3D;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Iridion II (USA);Iridion II;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Phalanx - The Enforce Fighter A-144 (USA);Phalanx;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+R-Type III - The Third Lightning (USA);R-Type III - The Third Lightning;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl);Robotech - The Macross Saga;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Space Invaders (USA, Europe);Space Invaders;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Sigma Star Saga (USA, Europe);Sigma Star Saga;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Famicom Mini 10 - Star Soldier (Japan) (En);Famicom Mini 10 - Star Soldier;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Star Wars - Flight of the Falcon (USA);Star Wars - Flight of the Falcon;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Star X (USA) (En,Fr,De,Es,It,Nl);Star X;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Steel Empire (Europe);Steel Empire;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Strike Force Hydra (USA);Strike Force Hydra;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Super Army War (USA);Super Army War;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Super Dropzone - Intergalactic Rescue Mission (USA);Super Dropzone - Intergalactic Rescue Mission;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;
+Famicom Mini 19 - Twin Bee (Japan);Famicom Mini 19 - Twin Bee;Nintendo Game Boy Advance;Nintendo Game Boy Advance SHMUPS;;;;;;;;0;;;;;

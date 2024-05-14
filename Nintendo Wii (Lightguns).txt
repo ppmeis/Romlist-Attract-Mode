@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Attack of the Movies 3D;Attack of the Movies 3D;Nintendo Wii (Lightguns);;;;2010;Panic Button Games;Shooter/Gun;;;;;;;;;;0;;;;;
+Cocoto Magic Circus;Cocoto Magic Circus;Nintendo Wii (Lightguns);;;;2006;Neko Entertainment;Shooter/Gun;;;;;;;;;;0;;;;;
+Chicken Blaster;Chicken Blaster;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Chicken Riot;Chicken Riot;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Chicken Shoot;Chicken Shoot;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Dead Space - Extraction;Dead Space - Extraction;Nintendo Wii (Lightguns);;;;2009;Electronic Arts;Shooter/Gun;;;;;;;;;;0;;;;;
+Dino Strike;Dino Strike;Nintendo Wii (Lightguns);;;;2010;Ubisoft;Shooter/Gun;;;;;;;;;;0;;;;;
+Eledees;Eledees;Nintendo Wii (Lightguns);;;;2006;Konami;Shooter/Gun;;;;;;;;;;0;;;;;
+Ghost Squad;Ghost Squad;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+LA Machineguns & Gunblade NY Arcade Hits Pack;LA Machineguns & Gunblade NY Arcade Hits Pack;Nintendo Wii (Lightguns);;;;2010;Sega;Shooter;;;;;;;;;;0;;;;;
+Gunslingers;Gunslingers;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Link's Crossbow Training;Link's Crossbow Training;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Mad Dog McCree - Gunslinger Pack;Mad Dog McCree - Gunslinger Pack Wii Version;Nintendo Wii (Lightguns);;;;;1990;American Laser Games (Lightguns);;;;;;;;;;;;0;;;;;
+Martian Panic;Nintendo Wii (Lightguns);;;;2012;ZOO Games;Shooter;;;;;;;;;;0;;;;;
+NERF N-Strike;NERF N-Strike;Nintendo Wii (Lightguns);;;;;2008;Electronic Arts;;;;;;;;;;;;0;;;;;
+Pirate Blast;Pirate Blast;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Reload;Reload - Target Down - Version Nintendo Wii;Nintendo Wii (Lightguns);;;;;2010;Mastiff Game;;;;;;;;;;;;0;;;;;
+Resident Evil The DarkSide - Chronicles;Resident Evil The DarkSide - Chronicles;Nintendo Wii (Lightguns);;;;;2009;Capcom;;;;;;;;;;;;0;;;;;
+Resident Evil The Umbrella - Chronicles;Resident Evil The Umbrella - Chronicles;Nintendo Wii (Lightguns);;;;;2007;Nintendo;;;;;;;;;;;;0;;;;;
+Sin and Punishment - Successor of the Skies;Sin and Punishment - Successor of the Skies;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Target- Terror;Target - Terror;Nintendo Wii (Lightguns);;;;2004;Leviathan Games;Shooter/Gun;;;;;;;;;;0;;;;;
+The House of the Dead;The House of the Dead 2 y 3 Return Version Wii;Nintendo Wii (Lightguns);;;;2008;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+The House of the Dead OVERKILL;The House of the Dead OVERKILL - Version Wii;Nintendo Wii (Lightguns);;;;2009;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+Tom Clancy's Ghost Recon;Tom Clancy's Ghost Recon;Nintendo Wii (Lightguns);;;;2010;Ubisoft;Shooter;;;;;;;;;;0;;;;;
+Wild West Shootut;Wild West Shootut;Nintendo Wii (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
