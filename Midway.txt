@@ -1,0 +1,21 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+archrivl;archrivl;Midway; ; ; ; ;;;;;0;;;;;
+blasted;blasted;Midway; ; ; ; ;;;;;0;;;;;
+carnevil;Carnevil;Midway; ; ; ; ;;;;;0;;;;;
+crusnusa;crusnusa;Midway; ; ; ; ;;;;;0;;;;;
+crusnwld;crusnwld;Midway; ; ; ; ;;;;;0;;;;;
+galaga;galaga;Midway; ; ; ; ;;;;;0;;;;;
+jdreddp;jdreddp;Midway; ; ; ; ;;;;;0;;;;;
+kinst;kinst;Midway; ; ; ; ;;;;;0;;;;;
+kinst2;kinst2;Midway; ; ; ; ;;;;;0;;;;;
+mk;mk;Midway; ; ; ; ;;;;;0;;;;;
+mk2;mk2;Midway; ; ; ; ;;;;;0;;;;;
+mk3;mk3;Midway; ; ; ; ;;;;;0;;;;;
+umk3;mk3u;Midway; ; ; ; ;;;;;0;;;;;
+mk4;mk4;Midway; ; ; ; ;;;;;0;;;;;
+mspacman;mspacman;Midway; ; ; ; ;;;;;0;;;;;
+nbahangt;nbahangt;Midway; ; ; ; ;;;;;0;;;;;
+nbajam;nbajam;Midway; ; ; ; ;;;;;0;;;;;
+pacplus;pacplus;Midway; ; ; ; ;;;;;0;;;;;
+tm;tm;Midway; ; ; ; ;;;;;0;;;;;
+wwfmania;wwfmania;Midway; ; ; ; ;;;;;0;;;;;
