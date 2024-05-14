@@ -1,0 +1,12 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+blaster;blaster;Williams Classics; ; ; ; ;;;;;0;;;;;
+bubbles;bubbles;Williams Classics; ; ; ; ;;;;;0;;;;;
+defender;defender;Williams Classics; ; ; ; ;;;;;0;;;;;
+joust;joust;Williams Classics; ; ; ; ;;;;;0;;;;;
+mpatrol;mpatrol;Williams Classics; ; ; ; ;;;;;0;;;;;
+mysticm;mysticm;Williams Classics; ; ; ; ;;;;;0;;;;;
+robotron;robotron;Williams Classics; ; ; ; ;;;;;0;;;;;
+sinistar;sinistar;Williams Classics; ; ; ; ;;;;;0;;;;;
+splat;splat;Williams Classics; ; ; ; ;;;;;0;;;;;
+stargate;stargate;Williams Classics; ; ; ; ;;;;;0;;;;;
+tshoot;tshoot;Williams Classics; ; ; ; ;;;;;0;;;;;

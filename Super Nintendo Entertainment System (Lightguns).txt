@@ -1,0 +1,11 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Battle Clash (USA);Battle Clash (USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Bazooka Blitzkrieg (USA);Bazooka Blitzkrieg (USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Lethal Enforcers (USA);Lethal Enforcers - Super Nintendo Version;Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Metal Combat - Falcon's Revenge (USA);Metal Combat - Falcon's Revenge (USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Operation Thunderbolt (USA);Operation Thunderbolt (USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Super Scope 6 (USA);Super Scope 6 (USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+T2 - The Arcade Game (USA);T2 - The Arcade Game - Version Arcade;Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Tin Star (USA);Tin Star (USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+X Zone (Japan, USA);X Zone (Japan, USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Yoshi's Safari (USA);Yoshi's Safari (USA);Super Nintendo Entertainment System (Lightguns);;;;;;;;;;;;;;;;;0;;;;;

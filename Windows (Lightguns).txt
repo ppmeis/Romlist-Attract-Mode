@@ -1,0 +1,17 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Art Is Dead;Art Is Dead;Windows (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+Banzai Escape;Banzai Escape;Windows (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+Blue Estate;Blue Estate - PC Version;Windows (Lightguns);;;;2015; HE SAW ;Shooter/Gun;;;;;;;;;;0;;;;;
+Death Live;Death Live;Windows (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+Dead Containment;Dead Containment;Windows (Lightguns);;;;2015; HE SAW ;Shooter/Gun;;;;;;;;;;0;;;;;
+Friction;Friction Arcade Game;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Heavy Fire - Afghanistan;Heavy Fire - Afghanistan - Windows Version;Windows (Lightguns);;;;2011;Mastiff Game;Shooter/Gun;;;;;;;;;;0;;;;;
+Heavy Fire - Shattered Spear;Heavy Fire - Shattered Spear;Windows (Lightguns);;;;2012;Mastiff Game;Shooter/Gun;;;;;;;;;;0;;;;;
+Lost Land Adventure;Lost Land Adventure;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Major Mayhem;Major Mayhem;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Metal Gear Arcade;Metal Gear Arcade;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Prohibition-1930;Prohibition 1930;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Reload;Reload - Version PC;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+The Typing of The Dead Overkill;The Typing of The Dead Overkill - Version PC;Windows (Lightguns);;;;2013;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+Time Crisis 5;Time Crisis 5;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+Zombie Panic In Wonderland DX;Zombie Panic In Wonderland DX - Windows Version;Windows (Lightguns);;;;;;;;;;;;;;;;;0;;;;;

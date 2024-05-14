@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+2Spicy;Too Spicy;TeknoParrot (Lightguns);;;;;;;;;;0;;;;;
+AliensExtermination;Aliens Extermination;TeknoParrot (Lightguns);;;;2009;Gloval VR;Shooter/Gun;;;;;;;;;;0;;;;;
+EADP;Elevator Action Death Parade;TeknoParrot (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+FarCryParadiseLost;Far Cry Paradise Lost Arcade;TeknoParrot (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+GaiaAttack4;Gaia Attack 4;TeknoParrot (Lightguns);;;;;;;;;;0;;;;;
+HauntedMuseum;Haunted Museum;TeknoParrot (Lightguns);;;;;;;;;;0;;;;;
+HauntedMuseumII;Haunted Museum 2;TeknoParrot (Lightguns);;;;;;;;;;0;;;;;
+HOTD4;The House Of The Dead IV;TeknoParrot (Lightguns);;;;2005;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+HOTDSD;The House Of The Dead Scarlett Dawn;TeknoParrot (Lightguns);;;;;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+LGI3D;Let's Go Island 3D;TeknoParrot (Lightguns);;;;2011;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+LGJ;Let's Go Jungle;TeknoParrot (Lightguns);;;;2006;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+LostLand;Lost Land Adventure;TeknoParrot (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+LuigisMansion;Luigis Mansion Arcade;TeknoParrot (Lightguns);;;;;2015;Capcom;;;;;;;;;;;;0;;;;;
+MusicGunGun2;Music Gun Gun! 2;TeknoParrot (Lightguns);;;;2010;Taito;Shooter/Gun;;;;;;;;;;0;;;;;
+OG;Operation G.H.O.S.T;TeknoParrot (Lightguns);;;;;2011;Sega;;;;;;;;;;;;0;;;;;
+Rambo;Rambo;TeknoParrot (Lightguns);;;;;;;;;;0;;;;;
+SDR;Sega Dream Raiders;TeknoParrot (Lightguns);;;;2012;Sega;Shooter/Gun;;;;;;;;;;0;;;;;
+GG;Sega Golden Gun;TeknoParrot (Lightguns);;;;;2010;Sega;;;;;;;;;;;;0;;;;;
+SilentHill;Silent Hill Arcade;TeknoParrot (Lightguns);;;;;2010;Konami;;;;;;;;;;;;0;;;;;
+StarTrekVoyager;Star Trek Voyager - The Arcade Game;TeknoParrot (Lightguns);;;;;;Shooter/Gun;;;;;;;;;;0;;;;;
+TC5;Time Crisis 5;TeknoParrot (Lightguns);;;;;;;;;;;;;;;;;0;;;;;
+TombRaider;Tomb Raider Arcade;TeknoParrot (Lightguns);;;;;;;;;;0;;;;;
+Transformers;Transformers Human Alliance;TeknoParrot (Lightguns);;;;2013;Sega;Shooter/Gun;;;;;;;;;;0;;;;;

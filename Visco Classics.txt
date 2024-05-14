@@ -1,0 +1,24 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+androdun;androdun;Visco Classics; ; ; ; ;;;;;0;;;;;
+bangbead;bangbead;Visco Classics; ; ; ; ;;;;;0;;;;;
+blockcar;blockcar;Visco Classics; ; ; ; ;;;;;0;;;;;
+breakers;breakers;Visco Classics; ; ; ; ;;;;;0;;;;;
+breakrev;breakrev;Visco Classics; ; ; ; ;;;;;0;;;;;
+ctomaday;ctomaday;Visco Classics; ; ; ; ;;;;;0;;;;;
+drifto94;drifto94;Visco Classics; ; ; ; ;;;;;0;;;;;
+driftout;driftout;Visco Classics; ; ; ; ;;;;;0;;;;;
+earthjkr;earthjkr;Visco Classics; ; ; ; ;;;;;0;;;;;
+eto;eto;Visco Classics; ; ; ; ;;;;;0;;;;;
+flipshot;flipshot;Visco Classics; ; ; ; ;;;;;0;;;;;
+galmedes;galmedes;Visco Classics; ; ; ; ;;;;;0;;;;;
+ganryu;ganryu;Visco Classics; ; ; ; ;;;;;0;;;;;
+goalx3;goalx3;Visco Classics; ; ; ; ;;;;;0;;;;;
+jsk;jsk;Visco Classics; ; ; ; ;;;;;0;;;;;
+koikois;koikois;Visco Classics; ; ; ; ;;;;;0;;;;;
+neodrift;neodrift;Visco Classics; ; ; ; ;;;;;0;;;;;
+neomrdo;neomrdo;Visco Classics; ; ; ; ;;;;;0;;;;;
+renju;renju;Visco Classics; ; ; ; ;;;;;0;;;;;
+stmblade;stmblade;Visco Classics; ; ; ; ;;;;;0;;;;;
+vasara;vasara;Visco Classics; ; ; ; ;;;;;0;;;;;
+vasara2;vasara 2;Visco Classics; ; ; ; ;;;;;0;;;;;
+vivdolls;vivdolls;Visco Classics; ; ; ; ;;;;;0;;;;;

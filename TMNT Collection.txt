@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+tmnt;01-Teenage Mutant Ninja Turtles - Arcade Version;Arcade;TMNT Collection;;1989;Konami;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles (USA);Teenage Mutant Ninja Turtles - Nintendo Version;Nintendo Entertainment System;TMNT Collection;;1989;Konami;;;;;;0;;;;;
+tmnt2;Teenage Mutant Ninja Turtles - Turtles in Time - Arcade Version;Arcade;TMNT Collection;;1989;Konami;;;;;;0;;;;;
+TeenageMutantHeroTurtlesCoinOp_v1.0_2301;Teenage Mutant Hero Turtles Coin Op Commodore Amiga;Commodore Amiga;;TMNT Collection;;;Konami;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA);Teenage Mutant Hero Turtles - Fall of the Foot Clan - Gameboy Version;Nintendo Game Boy;TMNT Collection;;1990;Konami;;;;;;0;;;;;
+TeenageMutantHeroTurtles_v1.2_0587;Teenage Mutant Hero Turtles Commodore Amiga;Commodore Amiga;;TMNT Collection;;;Konami;;;;;;0;;;;;
+TeenageMutantNinjaTurtles_v1.1;Teenage Mutant Ninja Turtles Commodore Amiga;Commodore Amiga;;TMNT Collection;;;Konami;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles II - The Arcade Game (USA);Teenage Mutant Ninja Turtles II - The Arcade Game - Nintendo Version;Nintendo Entertainment System;TMNT Collection;;1990;Konami;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles III - The Manhattan Project (USA);Teenage Mutant Ninja Turtles III - The Manhattan Project - Nintendo Version;Nintendo Entertainment System;TMNT Collection;;1991;Konami;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles II - Back from the Sewers (USA);Teenage Mutant Hero Turtles II - Back from the Sewers - Gameboy Version;Nintendo Game Boy;TMNT Collection;;1991;Konami;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA);Teenage Mutant Ninja Turtles - The Hyperstone Heist - Megadrive Version;Sega Genesis;TMNT Collection;;1992;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles IV - Turtles in Time (USA);Teenage Mutant Ninja Turtles IV - Turtles in Time - Super Nintendo Version;Super Nintendo Entertainment System;TMNT Collection;;1992;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles III - Radical Rescue (USA);Teenage Mutant Hero Turtles III - Radical Rescue - Gameboy Version;Nintendo Game Boy;TMNT Collection;;1993;Konami;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA);Teenage Mutant Ninja Turtles - Mutant Warriors - Super Nintendo Version;Super Nintendo Entertainment System;TMNT Collection;;1993;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA);Teenage Mutant Ninja Turtles - Tournament Fighters - Nintendo Version;Nintendo Entertainment System;TMNT Collection;1993;1993;;;;;;;0;;;;;
+TMNT (USA) (En,Fr,Es);T.M.N.T - Teenage Mutant Ninja Turtles - Gameboy Advance Version;Nintendo Game Boy Advance;TMNT Collection;;2003;Konami;;;;;;0;;;;;
+TMNT2-Battle Nexus CD1;TMNT 2 - Battle Nexus (Disc 1) Gamecube Version;Nintendo Gamecube;TMNT Collection;;2004;;;;;;;0;;;;;
+TMNT2-Battle Nexus CD2;TMNT 2 - Battle Nexus (Disc 2) Gamecube Version;Nintendo Gamecube;TMNT Collection;;2004;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It);TMNT 2 - Battle Nexus - Gameboy Advance Version;Nintendo Game Boy Advance;TMNT Collection;;2004;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA);TMNT 3 - Mutant Nightmare - Nintendo DS Version;Nintendo DS;TMNT Collection;;2005;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles - Mutant Melee;TMNT - Mutant Melee Gamecube Version;Nintendo Gamecube;TMNT Collection;;2005;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 1);TMNT 3 - Mutant Nightmare Disc 1 - Gamecube Version;Nintendo Gamecube;TMNT Collection;;2005;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 2);TMNT 3 - Mutant Nightmare Disc 2 - Gamecube Version;Nintendo Gamecube;TMNT Collection;;2005;;;;;;;0;;;;;
+Teenage Mutant Ninja Turtles - Arcade Attack (USA);TMNT - Arcade Attack - Nintendo DS Version;Nintendo DS;TMNT Collection;;2009;;;;;;;0;;;;;
+

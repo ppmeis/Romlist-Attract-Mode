@@ -1,0 +1,20 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Crash 'n the Boys - Street Challenge (USA);Crash 'n the Boys - Street Challenge;Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Double Dragon (USA);Double Dragon (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Double Dragon II - The Revenge (USA) (Rev A);Double Dragon II - The Revenge (E) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Double Dragon III - The Sacred Stones (USA);Double Dragon III - The Sacred Stones (E) [!p];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Downtown Nekketsu Koshinkyoku Soreyuku Daiundokai (J);Downtown Nekketsu Koshinkyoku Soreyuku Daiundokai (J);Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Downtown Special Kunio-kun no Jidaigeki dayo Zen'in Shugo (U) [!];Downtown Special Kunio-kun no Jidaigeki dayo Zen'in Shugo (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Ike Ike! Nekketsu Hockey Bu Subette Koronde Dairanto (U) [!];Ike Ike! Nekketsu Hockey Bu Subette Koronde Dairanto (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Kunio-kun no Nekketsu Soccer League (E) [!];Kunio-kun no Nekketsu Soccer League (E) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Nekketsu Kakuto Densetsu (E) [!];Nekketsu Kakuto Densetsu (E) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Nekketsu Koukou Dodgeball Bu - Soccer Hen (Japan);Nekketsu Koukou Dodgeball Bu - Soccer Hen (Japan);Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Nekketsu! Street Basket Ganbare Dunk Heroes (E) [!];Nekketsu! Street Basket Ganbare Dunk Heroes (E) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Nintendo World Cup (USA);Nintendo World Cup (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Renegade (USA);Renegade (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+River City Ransom (USA);River City Ransom (USA);Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+River City Ransom EX (USA);River City Ransom EX GBA;Nintendo Game Boy Advance;Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+River City Ransom Underground;River City Ransom Underground;PC Games;Technos;;;;;;;;;0;;;;;
+Sugoro Quest (U) [!];Sugoro Quest (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Super Dodge Ball (USA);Super Dodge Ball (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+Super Spike V'Ball (USA);Super Spike V'Ball (E) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;

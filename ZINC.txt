@@ -1,0 +1,20 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+ts2;Bat2;ZINC; ; ; ; ;;;;;0;;;;;
+doapp;doapp;ZINC; ; ; ; ;;;;;0;;;;;
+ehrgeiz;ehrgeiz;ZINC; ; ; ; ;;;;;0;;;;;
+mfjump;mfjump;ZINC; ; ; ; ;;;;;0;;;;;
+mrdrillr;mrdrillr;ZINC; ; ; ; ;;;;;0;;;;;
+plsmaswd;plsmaswd;ZINC; ; ; ; ;;;;;0;;;;;
+rvschool;rvschool;ZINC; ; ; ; ;;;;;0;;;;;
+sfex;sfex;ZINC; ; ; ; ;;;;;0;;;;;
+sfex2;sfex2;ZINC; ; ; ; ;;;;;0;;;;;
+sfex2p;sfex2p;ZINC; ; ; ; ;;;;;0;;;;;
+sfexp;sfexp;ZINC; ; ; ; ;;;;;0;;;;;
+shiryu2;shiryu2;ZINC; ; ; ; ;;;;;0;;;;;
+sncwgltd;sncwgltd;ZINC; ; ; ; ;;;;;0;;;;;
+souledge;souledge;ZINC; ; ; ; ;;;;;0;;;;;
+starglad;starglad;ZINC; ; ; ; ;;;;;0;;;;;
+tekken;tekken;ZINC; ; ; ; ;;;;;0;;;;;
+tekken2;tekken2;ZINC; ; ; ; ;;;;;0;;;;;
+tgmj;tgmj;ZINC; ; ; ; ;;;;;0;;;;;
+xevi3dg;xevi3dg;ZINC; ; ; ; ;;;;;0;;;;;
