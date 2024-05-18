@@ -1,12 +1,12 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-blaster;blaster;Williams Classics; ; ; ; ;;;;;0;;;;;
-bubbles;bubbles;Williams Classics; ; ; ; ;;;;;0;;;;;
-defender;defender;Williams Classics; ; ; ; ;;;;;0;;;;;
-joust;joust;Williams Classics; ; ; ; ;;;;;0;;;;;
-mpatrol;mpatrol;Williams Classics; ; ; ; ;;;;;0;;;;;
-mysticm;mysticm;Williams Classics; ; ; ; ;;;;;0;;;;;
-robotron;robotron;Williams Classics; ; ; ; ;;;;;0;;;;;
-sinistar;sinistar;Williams Classics; ; ; ; ;;;;;0;;;;;
-splat;splat;Williams Classics; ; ; ; ;;;;;0;;;;;
-stargate;stargate;Williams Classics; ; ; ; ;;;;;0;;;;;
-tshoot;tshoot;Williams Classics; ; ; ; ;;;;;0;;;;;
+blaster;Blaster;Williams Classics;;1983;;;;;;;0;;;;;
+bubbles;Bubbles;Williams Classics;;1982;;;;;;;0;;;;;
+defender;Defender;Williams Classics;;1980;;;;;;;0;;;;;
+joust;Joust;Williams Classics;;1982;;;;;;;0;;;;;
+mpatrol;Moon Patrol;Williams Classics;;1982;;;;;;;0;;;;;
+mysticm;Mystic Marathon;Williams Classics;;1983;;;;;;;0;;;;;
+robotron;Robotron: 2084;Williams Classics;;1982;;;;;;;0;;;;;
+sinistar;Sinistar;Williams Classics;;1982;;;;;;;0;;;;;
+splat;Splat!;Williams Classics;;1982;;;;;;;0;;;;;
+stargate;Stargate;Williams Classics;;1981;;;;;;;0;;;;;
+tshoot;Turkey Shoot;Williams Classics;;1984;;;;;;;0;;;;;
