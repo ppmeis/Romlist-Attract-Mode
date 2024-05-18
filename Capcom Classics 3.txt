@@ -1,6 +1,6 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-jojoba;jojoba;Capcom Classics 3; ; ; ; ;;;;;0;;;;;
-redearth;redearth;Capcom Classics 3; ; ; ; ;;;;;0;;;;;
-sfiii;sfiii;Capcom Classics 3; ; ; ; ;;;;;0;;;;;
-sfiii2;sfiii2;Capcom Classics 3; ; ; ; ;;;;;0;;;;;
-sfiii3;sfiii3;Capcom Classics 3; ; ; ; ;;;;;0;;;;;
+jojoba;JoJo's Bizarre Adventure;Capcom Classics 3;;1999;;;;;;;0;;;;;
+redearth;Red Earth;Capcom Classics 3;;1996;;;;;;;0;;;;;
+sfiii;Street Fighter III: New Generation;Capcom Classics 3;;1997;;;;;;;0;;;;;
+sfiii2;Street Fighter III 2nd Impact: Giant Attack;Capcom Classics 3;;1997;;;;;;;0;;;;;
+sfiii3;Street Fighter III 3rd Strike: Fight for the Future;Capcom Classics 3;;1999;;;;;;;0;;;;;
