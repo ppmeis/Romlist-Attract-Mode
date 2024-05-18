@@ -1,14 +1,14 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-blazeon;Blaze On;Atlus; ; ; ; ;;;;;0;;;;;
-ddonpach;DoDonPachi;Atlus; ; ; ; ;;;;;0;;;;;
-esprade;ESP Ra.De.;Atlus; ; ; ; ;;;;;0;;;;;
-hvnsgate;Heaven's Gate;Atlus; ; ; ; ;;;;;0;;;;;
-heberpop;Hebereke no Popoon;Atlus; ; ; ; ;;;;;0;;;;;
-naname;Naname de Magic!;Atlus; ; ; ; ;;;;;0;;;;;
-ohmygod;Oh My God!;Atlus; ; ; ; ;;;;;0;;;;;
-powerins;Power Instinct;Atlus; ; ; ; ;;;;;0;;;;;
-pwrinst2;Power Instinct 2;Atlus; ; ; ; ;;;;;0;;;;;
-groovef;Power Instinct 3 - Groove On Fight;Atlus; ; ; ; ;;;;;0;;;;;
-plegends;Power Instinct Legends;Atlus; ; ; ; ;;;;;0;;;;;
-prikura;Princess Clara Daisakusen;Atlus; ; ; ; ;;;;;0;;;;;
-guwange;guwange;Atlus; ; ; ; ;;;;;0;;;;;
+blazeon;Blaze On;Atlus;;1992;;;;;;;0;;;;;
+ddonpach;DoDonPachi;Atlus;;1997;;;;;;;0;;;;;
+esprade;ESP Ra.De.;Atlus;;1998;;;;;;;0;;;;;
+guwange;Guwange;Atlus;;1999;;;;;;;0;;;;;
+hvnsgate;Heaven's Gate;Atlus;;1996;;;;;;;0;;;;;
+heberpop;Hebereke no Popoon;Atlus;;1994;;;;;;;0;;;;;
+naname;Naname de Magic!;Atlus;;1994;;;;;;;0;;;;;
+ohmygod;Oh My God!;Atlus;;1993;;;;;;;0;;;;;
+powerins;Power Instinct;Atlus;;1993;;;;;;;0;;;;;
+pwrinst2;Power Instinct 2;Atlus;;1994;;;;;;;0;;;;;
+groovef;Power Instinct 3 - Groove On Fight;Atlus;;1997;;;;;;;0;;;;;
+plegends;Power Instinct Legends;Atlus;;1995;;;;;;;0;;;;;
+prikura;Princess Clara Daisakusen;Atlus;;1996;;;;;;;0;;;;;
