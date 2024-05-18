@@ -1,0 +1,25 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+astrass;Astra SuperStars;Sega ST-V;;1988;;;;;;;0;;;;;
+bakubaku;Baku Baku Animal;Sega ST-V;;1995;;;;;;;0;;;;;
+batmanfr;Batman Forever;Sega ST-V;;1996;;;;;;;0;;;;;
+cotton2;Cotton 2;Sega ST-V;;1997;;;;;;;0;;;;;
+cottonbm;Cotton Boomerang;Sega ST-V;;1998;;;;;;;0;;;;;
+critcrsh;Critter Crusher;Sega ST-V;;1995;;;;;;;0;;;;;
+diehard;Die Hard Arcade;Sega ST-V;;1996;;;;;;;0;;;;;
+elandore;Elan Doree - Legend of Dragoon;Sega ST-V;;1998;;;;;;;0;;;;;
+ffreveng;Final Fight Revenge;Sega ST-V;;1999;;;;;;;0;;;;;
+fhboxers;Funky Head Boxers;Sega ST-V;;1995;;;;;;;0;;;;;
+gaxeduel;Golden Axe - The Duel;Sega ST-V;;1994;;;;;;;0;;;;;
+grdforce;Guardian Force;Sega ST-V;;1998;;;;;;;0;;;;;
+groovef;Groove on Fight - Gouketsuji Ichizoku 3;Sega ST-V;;1997;;;;;;;0;;;;;
+prikura;Princess Clara Daisakusen;Sega ST-V;;1996;;;;;;;0;;;;;
+rsgun;Radiant Silvergun;Sega ST-V;;1998;;;;;;;0;;;;;
+hanagumi;Sakura Taisen - Hanagumi Taisen Columns;Sega ST-V;;1997;;;;;;;0;;;;;
+shienryu;Shienryu;Sega ST-V;;1997;;;;;;;0;;;;;
+sss;Steep Slope Sliders;Sega ST-V;;1998;;;;;;;0;;;;;
+sasissu;Taisen Tanto-R Sashissu!!;Sega ST-V;;1998;;;;;;;0;;;;;
+twcup98;Tecmo World Cup '98;Sega ST-V;;1998;;;;;;;0;;;;;
+vfkids;Virtua Fighter Kids;Sega ST-V;;1996;;;;;;;0;;;;;
+vfremix;Virtua Fighter Remix;Sega ST-V;;1995;;;;;;;0;;;;;
+znpwfv;Zen Nippon Pro-Wrestling Featuring Virtua;Sega ST-V;;1997;;;;;;;0;;;;;
+findlove;Zenkoku Seifuku Bishoujo Grand Prix Find Love;Sega ST-V;;1997;;;;;;;0;;;;;
