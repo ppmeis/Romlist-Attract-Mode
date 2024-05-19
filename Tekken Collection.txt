@@ -1,13 +1,13 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-Tekken;Tekken - Playstation Version;Sony Playstation;Tekken Collection;1994;Namco;Fighter;;;;;0;;;;;
-Tekken 2 (v1.1);Tekken 2 - Playstation Version;Sony Playstation;Tekken Collection;1996;Namco;Fighter;;;;;0;;;;;
-Tekken 3;Tekken 3 - Playstation Version;Sony Playstation;Tekken Collection;1996;Namco;Fighter;;;;;0;;;;;
+Street Fighter X Tekken Complete Pack;Street Fighter X Tekken Complete Pack;PC Games extra;Tekken Collection;2012;Namco-Capcom;Fighter;;;;;0;;;;;
+Tekken;Tekken;Sony Playstation;Tekken Collection;1994;Namco;Fighter;;;;;0;;;;;
+Tekken 2 (v1.1);Tekken 2;Sony Playstation;Tekken Collection;1996;Namco;Fighter;;;;;0;;;;;
+Tekken 3;Tekken 3;Sony Playstation;Tekken Collection;1996;Namco;Fighter;;;;;0;;;;;
 Tekken 4 (USA);Tekken 4;Sony Playstation 2;Tekken Collection;2002;Namco;Fighter;;;;;0;;;;;
 Tekken 5;Tekken 5;Sony Playstation 2;Tekken Collection;2005;Namco;Fighter;;;;;0;;;;;
-Tekken Dark Resurrection;Tekken 5: Dark Resurrection - PSP;Sony PSP;Tekken Collection;2006;Namco;Fighter;;;;;0;;;;;
-Tekken 6;Tekken 6 - PSP;Sony PSP;Tekken Collection;2009;Namco;Fighter;;;;;0;;;;;
-Tekken7FR;Tekken 7 Version Arcade;Teknoparrot;Tekken Collection;2015;Namco;Fighter;;;;;0;;;;;
-Tekken 7;Tekken 7 Version PC;PC Games extra;Tekken Collection;2015;Namco;Fighter;;;;;0;;;;;
-Street Fighter X Tekken Complete Pack;Street Fighter X Tekken Complete Pack;PC Games extra;Tekken Collection;2012;Namco-Capcom;Fighter;;;;;0;;;;;
-tektagt;Tekken Tag Tournament - Arcade Version;Arcade;Tekken Collection;1999;Namco;Fighter;;;;;0;;;;;
-Tekken Tag Tournament;Tekken Tag Tournament - PS2 Version;Sony Playstation 2;Tekken Collection;2000;Namco;Fighter;;;;;0;;;;;
+Tekken 6;Tekken 6;Sony PSP;Tekken Collection;2009;Namco;Fighter;;;;;0;;;;;
+Tekken7FR;Tekken 7;Teknoparrot;Tekken Collection;2015;Namco;Fighter;;;;;0;;;;;
+Tekken 7;Tekken 7;PC Games extra;Tekken Collection;2015;Namco;Fighter;;;;;0;;;;;
+Tekken Dark Resurrection;Tekken 5: Dark Resurrection;Sony PSP;Tekken Collection;2006;Namco;Fighter;;;;;0;;;;;
+tektagt;Tekken Tag Tournament;Arcade;Tekken Collection;1999;Namco;Fighter;;;;;0;;;;;
+Tekken Tag Tournament;Tekken Tag Tournament;Sony Playstation 2;Tekken Collection;2000;Namco;Fighter;;;;;0;;;;;
