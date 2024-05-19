@@ -13,7 +13,7 @@ Nekketsu! Street Basket Ganbare Dunk Heroes (E) [!];Nekketsu! Street Basket Ganb
 Nintendo World Cup (USA);Nintendo World Cup (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
 Renegade (USA);Renegade (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
 River City Ransom (USA);River City Ransom (USA);Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
-River City Ransom EX (USA);River City Ransom EX GBA;Nintendo Game Boy Advance;Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
+River City Ransom EX (USA);River City Ransom EX GBA;Nintendo Game Boy Advance;Technos;;;;;;;;;;0;;;;;
 River City Ransom Underground;River City Ransom Underground;PC Games;Technos;;;;;;;;;0;;;;;
 Sugoro Quest (U) [!];Sugoro Quest (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
 Super Dodge Ball (USA);Super Dodge Ball (U) [!];Nintendo Entertainment System;Technos;;;;;;;;;0;;;;;
