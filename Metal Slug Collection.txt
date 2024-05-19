@@ -1,11 +1,11 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-mslug;Metal Slug;Arcade;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-mslug2;Metal Slug 2;Arcade;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-mslug3;Metal Slug 3;Arcade;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-mslug4;Metal Slug 4;Arcade;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-mslug5;Metal Slug 5;Arcade;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-mslug6;Metal Slug 6;Sammy Atomiswave;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-Metal Slug 3D;Metal Slug 3D;Sony Playstation 2;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-Metal Slug Advance (USA);Metal Slug Advance;Nintendo Game Boy Advance;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-Metal Slug Double X;Metal Slug Double X;Sony PSP;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
-mslugx;Metal Slug X;Arcade;Metal Slug Collection; ; ; ; ;;;;;0;;;;;
+mslug;Metal Slug: Super Vehicle-001;Arcade;Metal Slug Collection;1996;;;;;;;;0;;;;
+mslug2;Metal Slug 2: Super Vehicle-001-II;Arcade;Metal Slug Collection;1998;;;;;;;;0;;;;
+mslug3;Metal Slug 3;Arcade;Metal Slug Collection;2000;;;;;;;;0;;;;
+Metal Slug 3D;Metal Slug 3D;Sony Playstation 2;Metal Slug Collection;2006;;;;;;;;0;;;;
+mslug4;Metal Slug 4;Arcade;Metal Slug Collection;2002;;;;;;;;0;;;;
+mslug5;Metal Slug 5;Arcade;Metal Slug Collection;2003;;;;;;;;0;;;;
+mslug6;Metal Slug 6;Sammy Atomiswave;Metal Slug Collection;2006;;;;;;;;0;;;;
+Metal Slug Advance (USA);Metal Slug Advance;Nintendo Game Boy Advance;Metal Slug Collection;2004;;;;;;;;0;;;;
+Metal Slug Double X;Metal Slug Double X;Sony PSP;Metal Slug Collection;2009;;;;;;;;0;;;;
+mslugx;Metal Slug X: Super Vehicle-001;Arcade;Metal Slug Collection;1999;;;;;;;;0;;;;
