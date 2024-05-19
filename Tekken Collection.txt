@@ -11,4 +11,3 @@ Tekken 7;Tekken 7 Version PC;PC Games extra;Tekken Collection;2015;Namco;Fighter
 Street Fighter X Tekken Complete Pack;Street Fighter X Tekken Complete Pack;PC Games extra;Tekken Collection;2012;Namco-Capcom;Fighter;;;;;0;;;;;
 tektagt;Tekken Tag Tournament - Arcade Version;Arcade;Tekken Collection;1999;Namco;Fighter;;;;;0;;;;;
 Tekken Tag Tournament;Tekken Tag Tournament - PS2 Version;Sony Playstation 2;Tekken Collection;2000;Namco;Fighter;;;;;0;;;;;
-Tekken Tag Tournament 2;Tekken Tag Tournament 2;Sony PlayStation 3;Tekken Collection;2011;Namco;Fighter;;;;;0;;;;;
