@@ -13,7 +13,7 @@ macrossp;Macross Plus;Banpresto Collection;;1996;;;;;;;0;;;;;
 kamenrid;Masked Riders Club Battle Race;Banpresto Collection;;1993;;;;;;;0;;;;;
 mazinger;Mazinger Z;Banpresto Collection;;1994;;;;;;;0;;;;;
 metmqstr;Metamoqester;Banpresto Collection;;1995;;;;;;;0;;;;;
-msgundam;Mobile Suit Gundam;Banpresto Collection;;;1993;;;;;;0;;;;;
+msgundam;Mobile Suit Gundam;Banpresto Collection;;1993;;;;;;;0;;;;;
 gundamex;Mobile Suit Gundam EX Revue;Banpresto Collection;;1994;;;;;;;0;;;;;
 gdfs;Mobile Suit Gundam Final Shooting;Banpresto Collection;;1995;;;;;;;0;;;;;
 sailormn;Pretty Soldier Sailor Moon;Banpresto Collection;;1995;;;;;;;0;;;;;
