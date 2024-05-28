@@ -1,30 +1,8 @@
 ﻿#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
-Attack of the Movies 3D;Attack of the Movies 3D;Nintendo Wii;;;;;;;;;0;;;;;
-Avatar The Last Airbender The Burning Earth;Avatar The Last Airbender The Burning Earth;Nintendo Wii;;;;;;;;;0;;;;;
-Chicken Blaster;Chicken Blaster;Nintendo Wii;;;;;;;;;0;;;;;
-Chicken Shoot;Chicken Shoot;Nintendo Wii;;;;;;;;;0;;;;;
-Cocoto Magic Circus;Cocoto Magic Circus;Nintendo Wii;;;;;;;;;0;;;;;
-Dead Space - Extraction;Dead Space - Extraction;Nintendo Wii;;;;;;;;;0;;;;;
-Dino Strike;Dino Strike;Nintendo Wii;;;;;;;;;0;;;;;
 Donkey Kong Country Returns;Donkey Kong Country Returns;Nintendo Wii;;;;;;;;;0;;;;;
-Eledees;Eledees;Nintendo Wii;;;;;;;;;0;;;;;
-Ghost Squad;Ghost Squad;Nintendo Wii;;;;;;;;;0;;;;;
 Kirby's Return to Dreamland;Kirby's Return to Dreamland;Nintendo Wii;;;;;;;;;0;;;;;
-LA Machineguns & Gunblade NY Arcade Hits Pack;LA Machineguns & Gunblade NY Arcade Hits Pack;Nintendo Wii;;;;;;;;;0;;;;;
-Mad Dog McCree - Gunslinger Pack;Mad Dog McCree - Gunslinger Pack;Nintendo Wii;;;;;;;;;0;;;;;
 Mario Kart Wii;Mario Kart Wii;Nintendo Wii;;;;;;;;;0;;;;;
-Martian Panic;Martian Panic;Nintendo Wii;;;;;;;;;0;;;;;
-NERF N-Strike;NERF N-Strike;Nintendo Wii;;;;;;;;;0;;;;;
 New Super Mario Bros;New Super Mario Bros;Nintendo Wii;;;;;;;;;0;;;;;
 New Super Mario Bros Wii 2;New Super Mario Bros Wii 2;Nintendo Wii;;;;;;;;;0;;;;;
-Reload;Reload - Target Down;Nintendo Wii;;;;;;;;;0;;;;;
-Resident Evil The DarkSide - Chronicles;Resident Evil The DarkSide - Chronicles;Nintendo Wii;;;;;;;;;0;;;;;
-Resident Evil The Umbrella - Chronicles;Resident Evil The Umbrella - Chronicles;Nintendo Wii;;;;;;;;;0;;;;;
 Super Mario Galaxy 2;Super Mario Galaxy 2;Nintendo Wii;;;;;;;;;0;;;;;
-Target- Terror;Target - Terror;Nintendo Wii;;;;;;;;;0;;;;;
 The Legend of Zelda Twilight Princess;The Legend of Zelda Twilight Princess;Nintendo Wii;;;;;;;;;0;;;;;
-The House of the Dead OVERKILL;The House of the Dead OVERKILL;Nintendo Wii;;;;;;;;;0;;;;;
-The House of the Dead;The House of the Dead 2 y 3 Wii;Nintendo Wii;;;;;;;;;0;;;;;
-Tom Clancy's Ghost Recon;Tom Clancy's Ghost Recon;Nintendo Wii;;;;;;;;;0;;;;;
-Wild West Shootut;Wild West Shootut;Nintendo Wii;;;;;;;;;0;;;;;
-
