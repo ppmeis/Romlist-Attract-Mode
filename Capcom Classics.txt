@@ -1,8 +1,8 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-dino;Cadillacs and Dinosaurs;Capcom Classics;;;;;;;;;0;;;;;
-captcomm;Captain Commando;Capcom Classics;;1991;Capcom;Fighter;;;;;0;;;;;
-cawing;Carrier Air Wing;Capcom Classics;;1990;Capcom;Shooter;;;;;0;;;;;
-dynwar;Dynasty Wars;Capcom Classics;;1989;Capcom;Fighter;;;;;0;;;;;
+dino;Cadillacs and Dinosaurs;Capcom Classics;;1993;;;;;;;0;;;;;
+captcomm;Captain Commando;Capcom Classics;;1991;;;;;;;0;;;;;
+cawing;Carrier Air Wing;Capcom Classics;;1990;;;;;;;0;;;;;
+dynwar;Dynasty Wars;Capcom Classics;;1989;;;;;;;0;;;;;
 ffight;Final Fight;Capcom Classics;;1989;;;;;;;0;;;;;
 forgottn;Forgotten Worlds;Capcom Classics;;1988;;;;;;;0;;;;;
 ghouls;Ghouls'n Ghosts;Capcom Classics;;1988;;;;;;;0;;;;;
