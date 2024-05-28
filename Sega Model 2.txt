@@ -11,7 +11,7 @@ fvipers;Fighting Vipers;Sega Model 2;;1995;;;;;;;0;;;;;
 gunblade;Gunblade;Sega Model 2;;1995;;;;;;;0;;;;;
 indy500to;Indianapolis 500;Sega Model 2;;1995;;;;;;;0;;;;;
 lastbrnx;Last Bronx;Sega Model 2;;1996;;;;;;;0;;;;;
-motoraid;Motor Raid - Twin;Sega Model 2;;1997;;;;;;;0;;;;;
+motoraid;Motor Raid: Twin;Sega Model 2;;1997;;;;;;;0;;;;;
 overrev;Over Rev;Sega Model 2;;1997;;;;;;;0;;;;;
 pltkids;Pilot Kids;Sega Model 2;;1998;;;;;;;0;;;;;
 rchase2;Rail Chase 2;Sega Model 2;;1994;;;;;;;0;;;;;
