@@ -1,8 +1,8 @@
-﻿#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
-Donkey Kong Country Returns;Donkey Kong Country Returns;Nintendo Wii;;;;;;;;;0;;;;;
-Kirby's Return to Dreamland;Kirby's Return to Dreamland;Nintendo Wii;;;;;;;;;0;;;;;
-Mario Kart Wii;Mario Kart Wii;Nintendo Wii;;;;;;;;;0;;;;;
-New Super Mario Bros;New Super Mario Bros;Nintendo Wii;;;;;;;;;0;;;;;
-New Super Mario Bros Wii 2;New Super Mario Bros Wii 2;Nintendo Wii;;;;;;;;;0;;;;;
-Super Mario Galaxy 2;Super Mario Galaxy 2;Nintendo Wii;;;;;;;;;0;;;;;
-The Legend of Zelda Twilight Princess;The Legend of Zelda Twilight Princess;Nintendo Wii;;;;;;;;;0;;;;;
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Donkey Kong Country Returns;Donkey Kong Country Returns;Nintendo Wii;;2010;;;;;;;0;;;;;
+Kirby's Return to Dreamland;Kirby's Return to Dream Land;Nintendo Wii;;2011;;;;;;;0;;;;;
+Mario Kart Wii;Mario Kart Wii;Nintendo Wii;;2008;;;;;;;0;;;;;
+New Super Mario Bros;New Super Mario Bros. Wii;Nintendo Wii;;2009;;;;;;;0;;;;;
+New Super Mario Bros Wii 2;New Super Mario Bros. Wii 2: The Next Levels;Nintendo Wii;;2010;;;;;;;0;;;;;
+Super Mario Galaxy 2;Super Mario Galaxy 2;Nintendo Wii;;2010;;;;;;;0;;;;;
+The Legend of Zelda Twilight Princess;The Legend of Zelda: Twilight Princess;Nintendo Wii;;2006;;;;;;;0;;;;;
